@@ -1,2 +1,2 @@
-# variableProgram
+# VariableProgram
 local variable program
